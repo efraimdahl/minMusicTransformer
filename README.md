@@ -62,7 +62,7 @@ We also support the following two datasets:
 ## Splitting and Preparing Data
 
 We are assuming data is already split into a testing and training set
-Point the filename variable to your data-location. 
+Use the convert_extract_load function, to convert data from midi to json to npy and load them into a dataset.
 
 ## Training
 
