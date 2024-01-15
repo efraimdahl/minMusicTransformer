@@ -1,2 +1,2 @@
 # minMusicTransformer
-Transfer Learning on a Transformer based on https://github.com/asigalov61/Perceiver-Music-Transformer/
+Transfer Learning on a Transformer based on https://github.com/salu133445/mmt
