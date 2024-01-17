@@ -4,7 +4,8 @@ import src.representation as representation
 import numpy as np
 import src.dataset as dataset
 import matplotlib.pyplot as plt
-
+import torch
+import tqdm
 
 #DATA Loading Utility Functions
 
@@ -135,3 +136,46 @@ def save_result(filename, data, sample_dir, encoding, savenpy=True,savecsv=True,
         # Save as a MIDI file
         pathlib.Path(sample_dir+"/mid").mkdir(exist_ok=True)
         music.write(sample_dir+"/mid/"+f"{filename}.mid")
+
+
+# Generating Functions:
+def generate(n,sample_dir,model,test_loader,encoding,device,modes=["unconditioned"],seq_len=1024,temperature=1,filter_logits="top_k",filter_thresh=0.9):
+    with torch.no_grad():
+        sos = encoding["type_code_map"]["start-of-song"]
+        eos = encoding["type_code_map"]["end-of-song"]
+        beat_0 = encoding["beat_code_map"][0]
+        beat_4 = encoding["beat_code_map"][4]
+        beat_16 = encoding["beat_code_map"][16]
+        data_iter = iter(test_loader)
+        for i in tqdm.tqdm(range(n), ncols=80):
+            batch = next(data_iter)
+            print("Generating based on",batch['name'])
+            for mode in modes:
+                if(mode=="unconditioned"):
+                    tgt_start = torch.zeros((1, 1, 6), dtype=torch.long, device=device)
+                    tgt_start[:, 0, 0] = sos
+                elif(mode=="instrument_informed"):
+                    prefix_len = int(np.argmax(batch["seq"][0, :, 1] >= beat_0))
+                    tgt_start = batch["seq"][:1, :prefix_len].to(device)
+                elif(mode=="4_beat"):
+                    cond_len = int(np.argmax(batch["seq"][0, :, 1] >= beat_4))
+                    tgt_start = batch["seq"][:1, :cond_len].to(device)
+                elif(mode=="16_beat"):
+                    cond_len = int(np.argmax(batch["seq"][0, :, 1] >= beat_16))
+                    tgt_start = batch["seq"][:1, :cond_len].to(device)
+                # Generate new samples
+                generated = model.generate(
+                    tgt_start,
+                    seq_len,
+                    eos_token=eos,
+                    temperature=temperature,
+                    filter_logits_fn=filter_logits,
+                    filter_thres=filter_thresh,
+                    monotonicity_dim=("type", "beat"),
+                )
+                generated_np = torch.cat((tgt_start, generated), 1).cpu().numpy()
+
+                # Save the results
+                save_result(
+                    f"{i}_{mode}", generated_np[0], sample_dir, encoding,savecsv=False,savetxt=False,savenpy=False,savepng=False,savejson=False
+                )

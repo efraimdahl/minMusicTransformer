@@ -8,6 +8,7 @@ import torch
 import torch.nn.functional as F
 from einops import repeat
 from torch import nn
+
 from x_transformers.autoregressive_wrapper import (
     ENTMAX_ALPHA,
     entmax,
@@ -105,6 +106,7 @@ class MusicTransformerWrapper(nn.Module):
             nn.Linear(emb_dim, dim) if emb_dim != dim else nn.Identity()
         )
         self.attn_layers = attn_layers
+        
         self.norm = nn.LayerNorm(dim)
 
         self.init_()
