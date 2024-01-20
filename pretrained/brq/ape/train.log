@@ -1,0 +1,43 @@
+Running command: python mmt/train-transfer.py -d brq -o pretrained/brq/ape --model_steps 15000
+Using arguments:
+{'abs_pos_emb': True,
+ 'aug': True,
+ 'batch_size': 8,
+ 'dataset': 'brq',
+ 'dim': 512,
+ 'dropout': 0.2,
+ 'early_stopping': True,
+ 'early_stopping_tolerance': 20,
+ 'gpu': None,
+ 'grad_norm_clip': 1.0,
+ 'heads': 8,
+ 'in_dir': PosixPath('data/brq/processed/notes'),
+ 'jobs': 4,
+ 'layers': 6,
+ 'learning_rate': 0.0005,
+ 'lr_decay_multiplier': 0.1,
+ 'lr_decay_steps': 2995,
+ 'lr_warmup_steps': 5,
+ 'max_beat': 256,
+ 'max_seq_len': 1024,
+ 'model_steps': 15000,
+ 'out_dir': PosixPath('/Users/connormacdonald/Projects/mmt/pretrained/brq/ape'),
+ 'quiet': False,
+ 'rel_pos_emb': False,
+ 'steps': 100000,
+ 'train_names': PosixPath('data/brq/processed/train-names.txt'),
+ 'transfer_dir': None,
+ 'use_csv': False,
+ 'valid_names': PosixPath('data/brq/processed/valid-names.txt'),
+ 'valid_steps': 3000}
+Saved arguments to /Users/connormacdonald/Projects/mmt/pretrained/brq/ape/train-args.json
+Using device: mps
+Creating the data loader...
+Creating model...
+Number of parameters: 19944950
+Number of trainable parameters: 19944950
+Training...
+Validating...
+Validation loss: 6.0608
+Saved the model to: /Users/connormacdonald/Projects/mmt/pretrained/brq/ape/checkpoints/model_18000.pt
+Training...

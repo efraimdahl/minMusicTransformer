@@ -1,1 +1,0 @@
-A selection of pretrained models, from https://github.com/salu133445/mmt

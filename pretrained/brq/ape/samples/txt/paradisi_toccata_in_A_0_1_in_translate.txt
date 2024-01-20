@@ -1,0 +1,961 @@
+Start of song
+Instrument: strings
+Start of notes
+Note: beat=0, position=0, pitch=D5, duration=2, instrument=violin
+Note: beat=1, position=0, pitch=D5, duration=2, instrument=violin
+Note: beat=1, position=6, pitch=G4, duration=2, instrument=violin
+Note: beat=1, position=0, pitch=D4, duration=2, instrument=violin
+Note: beat=1, position=6, pitch=B4, duration=3, instrument=violin
+Note: beat=1, position=6, pitch=A4, duration=1, instrument=violin
+Note: beat=2, position=0, pitch=F#4, duration=2, instrument=violin
+Note: beat=0, position=0, pitch=D5, duration=1, instrument=violin
+Note: beat=2, position=6, pitch=E5, duration=3, instrument=violin
+Note: beat=2, position=0, pitch=D3, duration=2, instrument=violin
+Note: beat=3, position=0, pitch=D4, duration=1, instrument=violin
+Note: beat=1, position=9, pitch=C#5, duration=3, instrument=violin
+Note: beat=12, position=0, pitch=G3, duration=2, instrument=violin
+Note: beat=5, position=6, pitch=E3, duration=2, instrument=violin
+Note: beat=2, position=6, pitch=D4, duration=3, instrument=violin
+Note: beat=2, position=6, pitch=A4, duration=1, instrument=violin
+Note: beat=2, position=9, pitch=G3, duration=2, instrument=violin
+Note: beat=7, position=9, pitch=G3, duration=1, instrument=violin
+Note: beat=11, position=9, pitch=B3, duration=1, instrument=violin
+Note: beat=14, position=0, pitch=A4, duration=2, instrument=violin
+Note: beat=6, position=0, pitch=D4, duration=2, instrument=violin
+Note: beat=15, position=9, pitch=D4, duration=3, instrument=violin
+Note: beat=3, position=0, pitch=F#4, duration=2, instrument=violin
+Note: beat=24, position=6, pitch=B3, duration=1, instrument=violin
+Note: beat=5, position=0, pitch=B3, duration=1, instrument=violin
+Note: beat=11, position=0, pitch=C#5, duration=3, instrument=violin
+Note: beat=9, position=9, pitch=A4, duration=2, instrument=violin
+Note: beat=20, position=0, pitch=B3, duration=1, instrument=violin
+Note: beat=11, position=0, pitch=E4, duration=2, instrument=violin
+Note: beat=8, position=9, pitch=E3, duration=2, instrument=violin
+Note: beat=3, position=0, pitch=A4, duration=1, instrument=violin
+Note: beat=7, position=9, pitch=A3, duration=2, instrument=violin
+Note: beat=13, position=0, pitch=D4, duration=2, instrument=violin
+Note: beat=14, position=9, pitch=B4, duration=2, instrument=violin
+Note: beat=10, position=0, pitch=D4, duration=1, instrument=violin
+Note: beat=10, position=0, pitch=B3, duration=2, instrument=violin
+Note: beat=14, position=9, pitch=E5, duration=1, instrument=violin
+Note: beat=12, position=0, pitch=D4, duration=1, instrument=violin
+Note: beat=23, position=6, pitch=G3, duration=1, instrument=violin
+Note: beat=13, position=6, pitch=C#5, duration=2, instrument=violin
+Note: beat=17, position=0, pitch=C#4, duration=2, instrument=violin
+Note: beat=8, position=0, pitch=D5, duration=1, instrument=violin
+Note: beat=10, position=0, pitch=F#3, duration=2, instrument=violin
+Note: beat=7, position=3, pitch=D5, duration=2, instrument=violin
+Note: beat=6, position=0, pitch=E4, duration=2, instrument=violin
+Note: beat=25, position=9, pitch=D5, duration=3, instrument=violin
+Note: beat=11, position=9, pitch=D4, duration=1, instrument=violin
+Note: beat=25, position=6, pitch=A4, duration=2, instrument=violin
+Note: beat=11, position=0, pitch=A4, duration=1, instrument=violin
+Note: beat=31, position=0, pitch=C#4, duration=2, instrument=violin
+Note: beat=19, position=9, pitch=C#5, duration=2, instrument=violin
+Note: beat=25, position=0, pitch=C#4, duration=1, instrument=violin
+Note: beat=12, position=6, pitch=F#4, duration=2, instrument=violin
+Note: beat=9, position=6, pitch=E4, duration=6, instrument=violin
+Note: beat=23, position=0, pitch=E5, duration=3, instrument=violin
+Note: beat=14, position=0, pitch=E4, duration=1, instrument=violin
+Note: beat=22, position=0, pitch=E4, duration=2, instrument=violin
+Note: beat=9, position=0, pitch=C#4, duration=2, instrument=violin
+Note: beat=9, position=0, pitch=E4, duration=1, instrument=violin
+Note: beat=19, position=9, pitch=B4, duration=2, instrument=violin
+Note: beat=22, position=6, pitch=E4, duration=1, instrument=violin
+Note: beat=23, position=6, pitch=B3, duration=3, instrument=violin
+Note: beat=15, position=6, pitch=C#5, duration=2, instrument=violin
+Note: beat=33, position=0, pitch=F#4, duration=3, instrument=violin
+Note: beat=35, position=6, pitch=E4, duration=3, instrument=violin
+Note: beat=27, position=0, pitch=E4, duration=1, instrument=violin
+Note: beat=29, position=6, pitch=G#4, duration=2, instrument=violin
+Note: beat=17, position=6, pitch=C#5, duration=2, instrument=violin
+Note: beat=30, position=6, pitch=B4, duration=3, instrument=violin
+Note: beat=13, position=6, pitch=B3, duration=2, instrument=violin
+Note: beat=35, position=6, pitch=C#5, duration=2, instrument=violin
+Note: beat=15, position=0, pitch=D5, duration=1, instrument=violin
+Note: beat=22, position=6, pitch=B3, duration=2, instrument=violin
+Note: beat=20, position=6, pitch=A3, duration=3, instrument=violin
+Note: beat=33, position=0, pitch=B3, duration=1, instrument=violin
+Note: beat=20, position=0, pitch=B3, duration=3, instrument=violin
+Note: beat=23, position=6, pitch=B4, duration=3, instrument=violin
+Note: beat=13, position=6, pitch=D5, duration=2, instrument=violin
+Note: beat=33, position=6, pitch=F#4, duration=2, instrument=violin
+Note: beat=14, position=0, pitch=F#4, duration=3, instrument=violin
+Note: beat=23, position=6, pitch=E4, duration=1, instrument=violin
+Note: beat=19, position=6, pitch=A4, duration=1, instrument=violin
+Note: beat=44, position=0, pitch=A4, duration=1, instrument=violin
+Note: beat=24, position=6, pitch=E4, duration=2, instrument=violin
+Note: beat=20, position=6, pitch=C#4, duration=2, instrument=violin
+Note: beat=30, position=9, pitch=D4, duration=3, instrument=violin
+Note: beat=20, position=0, pitch=F#3, duration=2, instrument=violin
+Note: beat=43, position=6, pitch=E5, duration=1, instrument=violin
+Note: beat=24, position=0, pitch=A4, duration=2, instrument=violin
+Note: beat=14, position=0, pitch=F#4, duration=2, instrument=violin
+Note: beat=27, position=6, pitch=E5, duration=3, instrument=violin
+Note: beat=19, position=6, pitch=D5, duration=2, instrument=violin
+Note: beat=21, position=0, pitch=C#5, duration=2, instrument=violin
+Note: beat=22, position=6, pitch=A3, duration=1, instrument=violin
+Note: beat=15, position=0, pitch=C#4, duration=2, instrument=violin
+Note: beat=16, position=0, pitch=F#4, duration=1, instrument=violin
+Note: beat=21, position=0, pitch=B4, duration=2, instrument=violin
+Note: beat=36, position=0, pitch=E4, duration=3, instrument=violin
+Note: beat=20, position=0, pitch=F#3, duration=6, instrument=violin
+Note: beat=35, position=0, pitch=A3, duration=3, instrument=violin
+Note: beat=26, position=0, pitch=E4, duration=3, instrument=violin
+Note: beat=15, position=6, pitch=G3, duration=3, instrument=violin
+Note: beat=25, position=6, pitch=F#4, duration=1, instrument=violin
+Note: beat=24, position=6, pitch=F#4, duration=3, instrument=violin
+Note: beat=15, position=0, pitch=F#4, duration=1, instrument=violin
+Note: beat=17, position=3, pitch=B2, duration=3, instrument=violin
+Note: beat=27, position=0, pitch=D5, duration=1, instrument=violin
+Note: beat=24, position=6, pitch=E3, duration=2, instrument=violin
+Note: beat=28, position=6, pitch=G3, duration=2, instrument=violin
+Note: beat=28, position=0, pitch=D3, duration=3, instrument=violin
+Note: beat=39, position=0, pitch=F#4, duration=3, instrument=violin
+Note: beat=25, position=0, pitch=B3, duration=3, instrument=violin
+Note: beat=33, position=0, pitch=E4, duration=3, instrument=violin
+Note: beat=25, position=0, pitch=B4, duration=3, instrument=violin
+Note: beat=21, position=0, pitch=A3, duration=3, instrument=violin
+Note: beat=35, position=6, pitch=B3, duration=1, instrument=violin
+Note: beat=27, position=6, pitch=E4, duration=3, instrument=violin
+Note: beat=21, position=6, pitch=B4, duration=1, instrument=violin
+Note: beat=39, position=6, pitch=D5, duration=2, instrument=violin
+Note: beat=24, position=3, pitch=F#4, duration=1, instrument=violin
+Note: beat=26, position=6, pitch=D4, duration=1, instrument=violin
+Note: beat=38, position=6, pitch=C#4, duration=3, instrument=violin
+Note: beat=26, position=6, pitch=E4, duration=3, instrument=violin
+Note: beat=28, position=6, pitch=C#5, duration=3, instrument=violin
+Note: beat=33, position=0, pitch=C#5, duration=6, instrument=violin
+Note: beat=36, position=0, pitch=F#3, duration=3, instrument=violin
+Note: beat=27, position=6, pitch=B4, duration=3, instrument=violin
+Note: beat=26, position=0, pitch=D5, duration=3, instrument=violin
+Note: beat=34, position=6, pitch=B2, duration=3, instrument=violin
+Note: beat=43, position=0, pitch=D5, duration=3, instrument=violin
+Note: beat=24, position=6, pitch=C#4, duration=3, instrument=violin
+Note: beat=38, position=6, pitch=E3, duration=6, instrument=violin
+Note: beat=18, position=0, pitch=B4, duration=3, instrument=violin
+Note: beat=40, position=0, pitch=E3, duration=3, instrument=violin
+Note: beat=46, position=0, pitch=D4, duration=2, instrument=violin
+Note: beat=39, position=0, pitch=C#4, duration=3, instrument=violin
+Note: beat=31, position=6, pitch=A4, duration=2, instrument=violin
+Note: beat=34, position=6, pitch=B4, duration=2, instrument=violin
+Note: beat=31, position=0, pitch=C#4, duration=2, instrument=violin
+Note: beat=33, position=0, pitch=F#4, duration=3, instrument=violin
+Note: beat=22, position=0, pitch=B3, duration=6, instrument=violin
+Note: beat=28, position=0, pitch=D4, duration=3, instrument=violin
+Note: beat=30, position=6, pitch=B4, duration=2, instrument=violin
+Note: beat=28, position=0, pitch=F#3, duration=2, instrument=violin
+Note: beat=24, position=0, pitch=E3, duration=2, instrument=violin
+Note: beat=29, position=0, pitch=E5, duration=2, instrument=violin
+Note: beat=23, position=0, pitch=A3, duration=1, instrument=violin
+Note: beat=40, position=0, pitch=F#4, duration=1, instrument=violin
+Note: beat=34, position=0, pitch=E4, duration=3, instrument=violin
+Note: beat=22, position=0, pitch=C#4, duration=3, instrument=violin
+Note: beat=42, position=0, pitch=B4, duration=2, instrument=violin
+Note: beat=42, position=0, pitch=A4, duration=2, instrument=violin
+Note: beat=44, position=0, pitch=C#5, duration=2, instrument=violin
+Note: beat=45, position=0, pitch=F#4, duration=3, instrument=violin
+Note: beat=37, position=6, pitch=A4, duration=1, instrument=violin
+Note: beat=40, position=6, pitch=A3, duration=2, instrument=violin
+Note: beat=28, position=0, pitch=D3, duration=3, instrument=violin
+Note: beat=36, position=6, pitch=A4, duration=1, instrument=violin
+Note: beat=41, position=6, pitch=B4, duration=1, instrument=violin
+Note: beat=29, position=0, pitch=C#5, duration=3, instrument=violin
+Note: beat=34, position=6, pitch=A4, duration=3, instrument=violin
+Note: beat=37, position=6, pitch=C#4, duration=2, instrument=violin
+Note: beat=52, position=6, pitch=A4, duration=2, instrument=violin
+Note: beat=39, position=0, pitch=E3, duration=1, instrument=violin
+Note: beat=47, position=0, pitch=A4, duration=3, instrument=violin
+Note: beat=28, position=0, pitch=D5, duration=2, instrument=violin
+Note: beat=39, position=6, pitch=G#4, duration=2, instrument=violin
+Note: beat=51, position=6, pitch=E4, duration=1, instrument=violin
+Note: beat=44, position=3, pitch=B4, duration=1, instrument=violin
+Note: beat=46, position=6, pitch=B4, duration=2, instrument=violin
+Note: beat=38, position=6, pitch=C#4, duration=2, instrument=violin
+Note: beat=36, position=6, pitch=C#5, duration=2, instrument=violin
+Note: beat=35, position=0, pitch=F#3, duration=2, instrument=violin
+Note: beat=39, position=6, pitch=E3, duration=3, instrument=violin
+Note: beat=43, position=6, pitch=A4, duration=1, instrument=violin
+Note: beat=44, position=6, pitch=A4, duration=2, instrument=violin
+Note: beat=41, position=6, pitch=E4, duration=3, instrument=violin
+Note: beat=50, position=0, pitch=B2, duration=2, instrument=violin
+Note: beat=42, position=6, pitch=E4, duration=3, instrument=violin
+Note: beat=38, position=0, pitch=F#4, duration=3, instrument=violin
+Note: beat=45, position=3, pitch=B3, duration=1, instrument=violin
+Note: beat=42, position=0, pitch=B4, duration=3, instrument=violin
+Note: beat=38, position=0, pitch=C#5, duration=2, instrument=violin
+Note: beat=48, position=6, pitch=D5, duration=3, instrument=violin
+Note: beat=49, position=0, pitch=A4, duration=3, instrument=violin
+Note: beat=35, position=0, pitch=E4, duration=6, instrument=violin
+Note: beat=61, position=6, pitch=E4, duration=1, instrument=violin
+Note: beat=54, position=0, pitch=A4, duration=2, instrument=violin
+Note: beat=44, position=6, pitch=C#5, duration=2, instrument=violin
+Note: beat=31, position=0, pitch=C#5, duration=2, instrument=violin
+Note: beat=45, position=3, pitch=F#3, duration=1, instrument=violin
+Note: beat=55, position=0, pitch=C#5, duration=3, instrument=violin
+Note: beat=42, position=3, pitch=E3, duration=2, instrument=violin
+Note: beat=45, position=9, pitch=B4, duration=3, instrument=violin
+Note: beat=47, position=6, pitch=A3, duration=1, instrument=violin
+Note: beat=42, position=3, pitch=B3, duration=2, instrument=violin
+Note: beat=39, position=9, pitch=F#3, duration=2, instrument=violin
+Note: beat=35, position=0, pitch=B4, duration=3, instrument=violin
+Note: beat=52, position=6, pitch=B3, duration=1, instrument=violin
+Note: beat=74, position=6, pitch=B3, duration=1, instrument=violin
+Note: beat=54, position=3, pitch=C#4, duration=2, instrument=violin
+Note: beat=66, position=0, pitch=E3, duration=2, instrument=violin
+Note: beat=43, position=6, pitch=A4, duration=1, instrument=violin
+Note: beat=46, position=0, pitch=B3, duration=3, instrument=violin
+Note: beat=56, position=0, pitch=E3, duration=1, instrument=violin
+Note: beat=39, position=0, pitch=B3, duration=3, instrument=violin
+Note: beat=63, position=3, pitch=B2, duration=1, instrument=violin
+Note: beat=57, position=6, pitch=B2, duration=2, instrument=violin
+Note: beat=50, position=0, pitch=D5, duration=3, instrument=violin
+Note: beat=42, position=9, pitch=F#3, duration=3, instrument=violin
+Note: beat=54, position=6, pitch=B3, duration=1, instrument=violin
+Note: beat=45, position=0, pitch=F#3, duration=3, instrument=violin
+Note: beat=49, position=6, pitch=E3, duration=2, instrument=violin
+Note: beat=49, position=6, pitch=F#3, duration=1, instrument=violin
+Note: beat=49, position=6, pitch=B4, duration=2, instrument=violin
+Note: beat=55, position=0, pitch=C#5, duration=2, instrument=violin
+Note: beat=80, position=6, pitch=F#4, duration=3, instrument=violin
+Note: beat=65, position=9, pitch=E3, duration=3, instrument=violin
+Note: beat=49, position=6, pitch=A3, duration=6, instrument=violin
+Note: beat=83, position=6, pitch=C#5, duration=2, instrument=violin
+Note: beat=45, position=0, pitch=A4, duration=3, instrument=violin
+Note: beat=48, position=0, pitch=E4, duration=3, instrument=violin
+Note: beat=44, position=0, pitch=A4, duration=3, instrument=violin
+Note: beat=43, position=6, pitch=D5, duration=3, instrument=violin
+Note: beat=44, position=0, pitch=A4, duration=2, instrument=violin
+Note: beat=55, position=6, pitch=C#5, duration=3, instrument=violin
+Note: beat=44, position=6, pitch=D5, duration=3, instrument=violin
+Note: beat=65, position=6, pitch=D5, duration=3, instrument=violin
+Note: beat=72, position=0, pitch=C#5, duration=2, instrument=violin
+Note: beat=84, position=9, pitch=E4, duration=1, instrument=violin
+Note: beat=62, position=9, pitch=A4, duration=1, instrument=violin
+Note: beat=57, position=6, pitch=B4, duration=3, instrument=violin
+Note: beat=51, position=6, pitch=D3, duration=1, instrument=violin
+Note: beat=102, position=6, pitch=B2, duration=3, instrument=violin
+Note: beat=46, position=0, pitch=A4, duration=3, instrument=violin
+Note: beat=78, position=6, pitch=B2, duration=2, instrument=violin
+Note: beat=84, position=6, pitch=C#5, duration=1, instrument=violin
+Note: beat=76, position=0, pitch=B4, duration=2, instrument=violin
+Note: beat=93, position=6, pitch=E3, duration=1, instrument=violin
+Note: beat=43, position=6, pitch=B2, duration=2, instrument=violin
+Note: beat=55, position=6, pitch=B4, duration=1, instrument=violin
+Note: beat=72, position=6, pitch=B2, duration=3, instrument=violin
+Note: beat=54, position=6, pitch=A3, duration=2, instrument=violin
+Note: beat=102, position=0, pitch=F#4, duration=2, instrument=violin
+Note: beat=74, position=0, pitch=F#3, duration=1, instrument=violin
+Note: beat=75, position=6, pitch=F#3, duration=2, instrument=violin
+Note: beat=106, position=6, pitch=G#4, duration=1, instrument=violin
+Note: beat=85, position=0, pitch=C#5, duration=2, instrument=violin
+Note: beat=73, position=0, pitch=G#4, duration=2, instrument=violin
+Note: beat=105, position=0, pitch=D3, duration=3, instrument=violin
+Note: beat=86, position=0, pitch=F#4, duration=2, instrument=violin
+Note: beat=78, position=0, pitch=C#4, duration=2, instrument=violin
+Note: beat=78, position=0, pitch=F#4, duration=2, instrument=violin
+Note: beat=62, position=0, pitch=A3, duration=1, instrument=violin
+Note: beat=92, position=0, pitch=C#4, duration=1, instrument=violin
+Note: beat=76, position=6, pitch=B4, duration=3, instrument=violin
+Note: beat=75, position=6, pitch=C#4, duration=2, instrument=violin
+Note: beat=75, position=6, pitch=C#5, duration=3, instrument=violin
+Note: beat=84, position=0, pitch=E3, duration=2, instrument=violin
+Note: beat=97, position=6, pitch=F#3, duration=2, instrument=violin
+Note: beat=81, position=0, pitch=A4, duration=2, instrument=violin
+Note: beat=75, position=6, pitch=C#5, duration=2, instrument=violin
+Note: beat=75, position=6, pitch=E4, duration=3, instrument=violin
+Note: beat=106, position=6, pitch=F#3, duration=6, instrument=violin
+Note: beat=98, position=9, pitch=D4, duration=3, instrument=violin
+Note: beat=95, position=6, pitch=B3, duration=3, instrument=violin
+Note: beat=77, position=6, pitch=D4, duration=2, instrument=violin
+Note: beat=73, position=0, pitch=F#3, duration=1, instrument=violin
+Note: beat=76, position=0, pitch=F#4, duration=2, instrument=violin
+Note: beat=80, position=0, pitch=B4, duration=3, instrument=violin
+Note: beat=84, position=6, pitch=A3, duration=3, instrument=violin
+Note: beat=79, position=0, pitch=E4, duration=3, instrument=violin
+Note: beat=83, position=0, pitch=A4, duration=3, instrument=violin
+Note: beat=83, position=6, pitch=C#4, duration=2, instrument=violin
+Note: beat=96, position=0, pitch=D3, duration=3, instrument=violin
+Note: beat=93, position=0, pitch=A4, duration=3, instrument=violin
+Note: beat=95, position=0, pitch=B4, duration=1, instrument=violin
+Note: beat=76, position=6, pitch=B4, duration=2, instrument=violin
+Note: beat=86, position=0, pitch=E4, duration=3, instrument=violin
+Note: beat=83, position=6, pitch=F#4, duration=3, instrument=violin
+Note: beat=92, position=0, pitch=D4, duration=1, instrument=violin
+Note: beat=83, position=0, pitch=G3, duration=1, instrument=violin
+Note: beat=101, position=0, pitch=B4, duration=2, instrument=violin
+Note: beat=80, position=0, pitch=C#4, duration=3, instrument=violin
+Note: beat=79, position=6, pitch=F#4, duration=2, instrument=violin
+Note: beat=86, position=6, pitch=B4, duration=1, instrument=violin
+Note: beat=106, position=6, pitch=F#4, duration=1, instrument=violin
+Note: beat=98, position=0, pitch=E4, duration=3, instrument=violin
+Note: beat=85, position=0, pitch=B2, duration=2, instrument=violin
+Note: beat=91, position=0, pitch=G3, duration=2, instrument=violin
+Note: beat=91, position=0, pitch=E3, duration=1, instrument=violin
+Note: beat=92, position=6, pitch=C#4, duration=1, instrument=violin
+Note: beat=77, position=0, pitch=A4, duration=3, instrument=violin
+Note: beat=75, position=6, pitch=A3, duration=3, instrument=violin
+Note: beat=87, position=6, pitch=A4, duration=1, instrument=violin
+Note: beat=103, position=6, pitch=B4, duration=3, instrument=violin
+Note: beat=96, position=0, pitch=A4, duration=1, instrument=violin
+Note: beat=83, position=0, pitch=F#4, duration=2, instrument=violin
+Note: beat=75, position=6, pitch=C#4, duration=3, instrument=violin
+Note: beat=76, position=6, pitch=E4, duration=2, instrument=violin
+Note: beat=109, position=6, pitch=D5, duration=1, instrument=violin
+Note: beat=102, position=6, pitch=A3, duration=3, instrument=violin
+Note: beat=72, position=0, pitch=D5, duration=1, instrument=violin
+Note: beat=102, position=6, pitch=D4, duration=3, instrument=violin
+Note: beat=97, position=6, pitch=B3, duration=3, instrument=violin
+Note: beat=84, position=0, pitch=B4, duration=1, instrument=violin
+Note: beat=83, position=0, pitch=E4, duration=2, instrument=violin
+Note: beat=88, position=0, pitch=E3, duration=2, instrument=violin
+Note: beat=88, position=6, pitch=B4, duration=3, instrument=violin
+Note: beat=84, position=0, pitch=F#4, duration=2, instrument=violin
+Note: beat=98, position=0, pitch=D4, duration=2, instrument=violin
+Note: beat=95, position=0, pitch=C#5, duration=1, instrument=violin
+Note: beat=83, position=6, pitch=B4, duration=3, instrument=violin
+Note: beat=92, position=6, pitch=A3, duration=3, instrument=violin
+Note: beat=72, position=0, pitch=A3, duration=1, instrument=violin
+Note: beat=98, position=6, pitch=F#4, duration=2, instrument=violin
+Note: beat=86, position=6, pitch=F#4, duration=3, instrument=violin
+Note: beat=78, position=0, pitch=B2, duration=2, instrument=violin
+Note: beat=106, position=0, pitch=E4, duration=2, instrument=violin
+Note: beat=98, position=6, pitch=B4, duration=6, instrument=violin
+Note: beat=80, position=0, pitch=A4, duration=3, instrument=violin
+Note: beat=101, position=6, pitch=D3, duration=3, instrument=violin
+Note: beat=79, position=0, pitch=A4, duration=3, instrument=violin
+Note: beat=91, position=0, pitch=F#4, duration=3, instrument=violin
+Note: beat=94, position=0, pitch=E4, duration=3, instrument=violin
+Note: beat=114, position=0, pitch=D4, duration=3, instrument=violin
+Note: beat=88, position=6, pitch=F#4, duration=2, instrument=violin
+Note: beat=103, position=0, pitch=B2, duration=1, instrument=violin
+Note: beat=90, position=0, pitch=B2, duration=1, instrument=violin
+Note: beat=93, position=6, pitch=B2, duration=2, instrument=violin
+Note: beat=112, position=6, pitch=B4, duration=3, instrument=violin
+Note: beat=96, position=6, pitch=E3, duration=2, instrument=violin
+Note: beat=97, position=0, pitch=A3, duration=2, instrument=violin
+Note: beat=112, position=6, pitch=B2, duration=2, instrument=violin
+Note: beat=113, position=0, pitch=B4, duration=3, instrument=violin
+Note: beat=95, position=6, pitch=E4, duration=3, instrument=violin
+Note: beat=104, position=6, pitch=C#4, duration=3, instrument=violin
+Note: beat=101, position=0, pitch=F#4, duration=3, instrument=violin
+Note: beat=107, position=6, pitch=F#3, duration=1, instrument=violin
+Note: beat=88, position=0, pitch=C#5, duration=2, instrument=violin
+Note: beat=92, position=6, pitch=F#4, duration=2, instrument=violin
+Note: beat=86, position=0, pitch=E4, duration=1, instrument=violin
+Note: beat=95, position=0, pitch=B3, duration=2, instrument=violin
+Note: beat=79, position=0, pitch=C#5, duration=1, instrument=violin
+Note: beat=105, position=6, pitch=B2, duration=1, instrument=violin
+Note: beat=104, position=6, pitch=D3, duration=2, instrument=violin
+Note: beat=95, position=6, pitch=B3, duration=2, instrument=violin
+Note: beat=101, position=0, pitch=A4, duration=3, instrument=violin
+Note: beat=101, position=0, pitch=C#5, duration=3, instrument=violin
+Note: beat=103, position=0, pitch=B2, duration=1, instrument=violin
+Note: beat=107, position=6, pitch=B4, duration=3, instrument=violin
+Note: beat=91, position=0, pitch=E3, duration=3, instrument=violin
+Note: beat=109, position=0, pitch=E3, duration=2, instrument=violin
+Note: beat=95, position=6, pitch=D5, duration=2, instrument=violin
+Note: beat=92, position=6, pitch=F#4, duration=1, instrument=violin
+Note: beat=94, position=0, pitch=D5, duration=3, instrument=violin
+Note: beat=75, position=0, pitch=B4, duration=3, instrument=violin
+Note: beat=102, position=6, pitch=E5, duration=2, instrument=violin
+Note: beat=112, position=0, pitch=E4, duration=3, instrument=violin
+Note: beat=106, position=0, pitch=F#4, duration=3, instrument=violin
+Note: beat=107, position=6, pitch=C#5, duration=1, instrument=violin
+Note: beat=93, position=0, pitch=D5, duration=3, instrument=violin
+Note: beat=115, position=0, pitch=D4, duration=3, instrument=violin
+Note: beat=114, position=0, pitch=B3, duration=2, instrument=violin
+Note: beat=93, position=0, pitch=A4, duration=2, instrument=violin
+Note: beat=95, position=6, pitch=B3, duration=1, instrument=violin
+Note: beat=112, position=0, pitch=F#4, duration=2, instrument=violin
+Note: beat=105, position=6, pitch=F#4, duration=1, instrument=violin
+Note: beat=100, position=6, pitch=D5, duration=2, instrument=violin
+Note: beat=101, position=0, pitch=F#4, duration=2, instrument=violin
+Note: beat=93, position=6, pitch=D5, duration=2, instrument=violin
+Note: beat=92, position=6, pitch=E4, duration=3, instrument=violin
+Note: beat=108, position=0, pitch=A4, duration=1, instrument=violin
+Note: beat=91, position=0, pitch=C#4, duration=2, instrument=violin
+Note: beat=107, position=9, pitch=D5, duration=2, instrument=violin
+Note: beat=93, position=6, pitch=A4, duration=1, instrument=violin
+Note: beat=97, position=0, pitch=F#4, duration=3, instrument=violin
+Note: beat=117, position=6, pitch=F#3, duration=1, instrument=violin
+Note: beat=102, position=0, pitch=E3, duration=2, instrument=violin
+Note: beat=94, position=6, pitch=D5, duration=3, instrument=violin
+Note: beat=117, position=6, pitch=D4, duration=1, instrument=violin
+Note: beat=114, position=6, pitch=F#5, duration=3, instrument=violin
+Note: beat=92, position=0, pitch=C#5, duration=3, instrument=violin
+Note: beat=109, position=0, pitch=E3, duration=3, instrument=violin
+Note: beat=98, position=0, pitch=E4, duration=1, instrument=violin
+Note: beat=117, position=0, pitch=E4, duration=3, instrument=violin
+Note: beat=106, position=6, pitch=F#3, duration=1, instrument=violin
+Start of song
+Note: beat=108, position=0, pitch=D5, duration=1, instrument=violin
+Start of song
+Note: beat=104, position=6, pitch=C#5, duration=2, instrument=violin
+Note: beat=122, position=6, pitch=E5, duration=2, instrument=violin
+Note: beat=93, position=6, pitch=C#5, duration=3, instrument=violin
+Note: beat=122, position=0, pitch=D5, duration=6, instrument=violin
+Start of song
+Start of song
+Note: beat=92, position=0, pitch=D5, duration=2, instrument=violin
+Start of song
+Note: beat=104, position=0, pitch=E5, duration=2, instrument=violin
+Note: beat=96, position=6, pitch=F#4, duration=2, instrument=violin
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song

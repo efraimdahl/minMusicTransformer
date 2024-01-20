@@ -1,0 +1,1 @@
+{"dataset": "brq", "names": "data/brq/processed/test-names.txt", "in_dir": "data/brq/processed/notes", "out_dir": "/Users/connormacdonald/Projects/mmt/pretrained/brq/ape", "n_samples": 50, "shuffle": false, "use_csv": false, "model_steps": null, "seq_len": 1024, "temperature": 1.0, "filter": "top_k", "filter_threshold": 0.9, "gpu": null, "jobs": 1, "quiet": false}

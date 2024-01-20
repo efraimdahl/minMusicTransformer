@@ -1,0 +1,2 @@
+step,train_loss,valid_loss,type_loss,beat_loss,position_loss,pitch_loss,duration_loss,instrument_loss
+18000,5.937354373931885,6.060824594935593

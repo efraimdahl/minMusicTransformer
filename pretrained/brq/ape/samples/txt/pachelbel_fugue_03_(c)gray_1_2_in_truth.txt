@@ -1,0 +1,138 @@
+Start of song
+Instrument: strings
+Start of notes
+Note: beat=0, position=0, pitch=C3, duration=3, instrument=strings
+Note: beat=0, position=3, pitch=D3, duration=3, instrument=strings
+Note: beat=0, position=6, pitch=E3, duration=3, instrument=strings
+Note: beat=0, position=9, pitch=F3, duration=3, instrument=strings
+Note: beat=1, position=0, pitch=G3, duration=3, instrument=strings
+Note: beat=1, position=3, pitch=D3, duration=3, instrument=strings
+Note: beat=1, position=6, pitch=G3, duration=3, instrument=strings
+Note: beat=1, position=9, pitch=F3, duration=3, instrument=strings
+Note: beat=2, position=0, pitch=E3, duration=9, instrument=strings
+Note: beat=2, position=9, pitch=A3, duration=3, instrument=strings
+Note: beat=3, position=0, pitch=D3, duration=5, instrument=strings
+Note: beat=3, position=6, pitch=G3, duration=5, instrument=strings
+Note: beat=4, position=0, pitch=C3, duration=3, instrument=strings
+Note: beat=4, position=3, pitch=G3, duration=3, instrument=strings
+Note: beat=4, position=6, pitch=A3, duration=3, instrument=strings
+Note: beat=4, position=9, pitch=B3, duration=3, instrument=strings
+Note: beat=5, position=0, pitch=C4, duration=3, instrument=strings
+Note: beat=5, position=3, pitch=G3, duration=3, instrument=strings
+Note: beat=5, position=6, pitch=C3, duration=5, instrument=strings
+Note: beat=6, position=0, pitch=B2, duration=10, instrument=strings
+Note: beat=7, position=0, pitch=F#2, duration=10, instrument=strings
+Note: beat=8, position=0, pitch=G2, duration=3, instrument=strings
+Note: beat=8, position=3, pitch=A2, duration=3, instrument=strings
+Note: beat=8, position=6, pitch=B2, duration=3, instrument=strings
+Note: beat=8, position=9, pitch=C3, duration=3, instrument=strings
+Note: beat=9, position=0, pitch=D3, duration=3, instrument=strings
+Note: beat=9, position=3, pitch=A2, duration=3, instrument=strings
+Note: beat=9, position=6, pitch=D3, duration=3, instrument=strings
+Note: beat=9, position=9, pitch=C3, duration=3, instrument=strings
+Note: beat=10, position=0, pitch=B2, duration=10, instrument=strings
+Note: beat=11, position=0, pitch=A2, duration=3, instrument=strings
+Note: beat=11, position=3, pitch=D3, duration=3, instrument=strings
+Note: beat=11, position=6, pitch=A2, duration=3, instrument=strings
+Note: beat=11, position=9, pitch=B2, duration=3, instrument=strings
+Note: beat=12, position=0, pitch=C3, duration=3, instrument=strings
+Note: beat=12, position=3, pitch=D3, duration=3, instrument=strings
+Note: beat=12, position=6, pitch=E3, duration=3, instrument=strings
+Note: beat=12, position=9, pitch=F3, duration=3, instrument=strings
+Note: beat=13, position=0, pitch=G3, duration=3, instrument=strings
+Note: beat=13, position=3, pitch=D3, duration=3, instrument=strings
+Note: beat=13, position=6, pitch=G3, duration=3, instrument=strings
+Note: beat=13, position=9, pitch=F3, duration=3, instrument=strings
+Note: beat=14, position=0, pitch=E3, duration=10, instrument=strings
+Note: beat=15, position=0, pitch=F3, duration=6, instrument=strings
+Note: beat=15, position=6, pitch=E3, duration=3, instrument=strings
+Note: beat=15, position=9, pitch=D3, duration=3, instrument=strings
+Note: beat=16, position=0, pitch=C3, duration=5, instrument=strings
+Note: beat=17, position=0, pitch=G2, duration=3, instrument=strings
+Note: beat=17, position=3, pitch=A2, duration=3, instrument=strings
+Note: beat=17, position=6, pitch=B2, duration=3, instrument=strings
+Note: beat=17, position=9, pitch=C3, duration=3, instrument=strings
+Note: beat=18, position=0, pitch=D3, duration=3, instrument=strings
+Note: beat=18, position=3, pitch=A2, duration=3, instrument=strings
+Note: beat=18, position=6, pitch=D3, duration=3, instrument=strings
+Note: beat=18, position=9, pitch=C3, duration=3, instrument=strings
+Note: beat=19, position=0, pitch=B2, duration=3, instrument=strings
+Note: beat=19, position=3, pitch=G2, duration=3, instrument=strings
+Note: beat=19, position=6, pitch=G3, duration=3, instrument=strings
+Note: beat=19, position=9, pitch=F3, duration=3, instrument=strings
+Note: beat=20, position=0, pitch=E3, duration=10, instrument=strings
+Note: beat=21, position=0, pitch=F#3, duration=10, instrument=strings
+Note: beat=22, position=0, pitch=G3, duration=3, instrument=strings
+Note: beat=22, position=3, pitch=D3, duration=3, instrument=strings
+Note: beat=22, position=6, pitch=G3, duration=3, instrument=strings
+Note: beat=22, position=9, pitch=F3, duration=3, instrument=strings
+Note: beat=23, position=0, pitch=E3, duration=5, instrument=strings
+Note: beat=24, position=0, pitch=F3, duration=3, instrument=strings
+Note: beat=24, position=3, pitch=C3, duration=3, instrument=strings
+Note: beat=24, position=6, pitch=F3, duration=3, instrument=strings
+Note: beat=24, position=9, pitch=E3, duration=3, instrument=strings
+Note: beat=25, position=0, pitch=D3, duration=3, instrument=strings
+Note: beat=25, position=3, pitch=G3, duration=3, instrument=strings
+Note: beat=25, position=6, pitch=F3, duration=3, instrument=strings
+Note: beat=25, position=9, pitch=G3, duration=3, instrument=strings
+Note: beat=26, position=0, pitch=E3, duration=10, instrument=strings
+Note: beat=27, position=0, pitch=B2, duration=5, instrument=strings
+Note: beat=28, position=0, pitch=C3, duration=3, instrument=strings
+Note: beat=28, position=3, pitch=D3, duration=3, instrument=strings
+Note: beat=28, position=6, pitch=E3, duration=3, instrument=strings
+Note: beat=28, position=9, pitch=F3, duration=3, instrument=strings
+Note: beat=29, position=0, pitch=G3, duration=3, instrument=strings
+Note: beat=29, position=3, pitch=D3, duration=3, instrument=strings
+Note: beat=29, position=6, pitch=G3, duration=3, instrument=strings
+Note: beat=29, position=9, pitch=F3, duration=3, instrument=strings
+Note: beat=30, position=0, pitch=E3, duration=10, instrument=strings
+Note: beat=31, position=0, pitch=D3, duration=5, instrument=strings
+Note: beat=31, position=6, pitch=G3, duration=5, instrument=strings
+Note: beat=32, position=0, pitch=F3, duration=3, instrument=strings
+Note: beat=32, position=3, pitch=E3, duration=3, instrument=strings
+Note: beat=32, position=6, pitch=F3, duration=3, instrument=strings
+Note: beat=32, position=9, pitch=G3, duration=3, instrument=strings
+Note: beat=33, position=0, pitch=E3, duration=3, instrument=strings
+Note: beat=33, position=3, pitch=D3, duration=3, instrument=strings
+Note: beat=33, position=6, pitch=E3, duration=3, instrument=strings
+Note: beat=33, position=9, pitch=F3, duration=3, instrument=strings
+Note: beat=34, position=0, pitch=D3, duration=10, instrument=strings
+Note: beat=35, position=0, pitch=C3, duration=5, instrument=strings
+Note: beat=35, position=6, pitch=C4, duration=5, instrument=strings
+Note: beat=36, position=0, pitch=B3, duration=3, instrument=strings
+Note: beat=36, position=3, pitch=A3, duration=3, instrument=strings
+Note: beat=36, position=6, pitch=B3, duration=3, instrument=strings
+Note: beat=36, position=9, pitch=C4, duration=3, instrument=strings
+Note: beat=37, position=0, pitch=A3, duration=5, instrument=strings
+Note: beat=37, position=6, pitch=B3, duration=5, instrument=strings
+Note: beat=38, position=0, pitch=C4, duration=3, instrument=strings
+Note: beat=38, position=3, pitch=C3, duration=3, instrument=strings
+Note: beat=38, position=6, pitch=D3, duration=3, instrument=strings
+Note: beat=38, position=9, pitch=E3, duration=3, instrument=strings
+Note: beat=39, position=0, pitch=F3, duration=5, instrument=strings
+Note: beat=39, position=6, pitch=E3, duration=5, instrument=strings
+Note: beat=40, position=0, pitch=D3, duration=3, instrument=strings
+Note: beat=40, position=3, pitch=D4, duration=3, instrument=strings
+Note: beat=40, position=6, pitch=G3, duration=3, instrument=strings
+Note: beat=40, position=9, pitch=A3, duration=3, instrument=strings
+Note: beat=41, position=0, pitch=B3, duration=3, instrument=strings
+Note: beat=41, position=3, pitch=G3, duration=3, instrument=strings
+Note: beat=41, position=6, pitch=E3, duration=3, instrument=strings
+Note: beat=41, position=9, pitch=A3, duration=3, instrument=strings
+Note: beat=42, position=0, pitch=D3, duration=3, instrument=strings
+Note: beat=42, position=3, pitch=G3, duration=3, instrument=strings
+Note: beat=42, position=6, pitch=E3, duration=3, instrument=strings
+Note: beat=42, position=9, pitch=F3, duration=3, instrument=strings
+Note: beat=43, position=0, pitch=G3, duration=5, instrument=strings
+Note: beat=43, position=6, pitch=G2, duration=5, instrument=strings
+Note: beat=44, position=0, pitch=C3, duration=21, instrument=strings
+End of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
+Start of song
