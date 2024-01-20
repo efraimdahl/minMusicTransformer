@@ -22,6 +22,7 @@ def extract_json(midi_dir,json_dir=False,skip_existing=True,resolution=12):
     """Converts midi files into muspy json files"""
     if(not json_dir):
         json_dir=midi_dir
+    json_dir = pathlib.Path(json_dir)
     for file in pathlib.Path(midi_dir).glob("*.mid"):
         out_name = file.name
         out_filename = json_dir / f"{out_name}.json"
