@@ -1,5 +1,13 @@
 # minMusicTransformer
-Transfer Learning on a Transformer based on https://github.com/salu133445/mmt
+Transfer Learning with a Transformer based on https://github.com/salu133445/mmt a multitrack music transformer that generates music given a seed. 
+Two different versions of the model are presented and trained in this repository.
+1) Retraining of top layers on the MCMA - Multitrack Contrapuntal Music Archive.
+   It worked well, but the output is similar to that of the original model.
+2) Remodelling to setting counterpoint to a melody,  instead of generating music given a seed - (continuing a sequence). 
+   We follow the approach by [Nichols et al](https://arxiv.org/abs/2006.14221).
+   This did not work well, perhaps more low-level retraining is required, or maybe the tasks of sequence prediction and sequence translation are too far apart.
+
+Samples with audio and sheet music are available [here](https://www.youtube.com/watch?v=XR9NxTAaMv4)
 
 ## Content
 
@@ -15,49 +23,24 @@ Transfer Learning on a Transformer based on https://github.com/salu133445/mmt
 - [Generation (Inference)](#generation-inference)
 - [Citation](#citation)
 
-## Prerequisites
-
+## Required Packages
 We recommend using Conda. You can create the environment with the following command.
-
 ```sh
 conda env create -f environment.yml
 ```
 
 ## Preprocessing
 
-### Preprocessed Datasets
-
-Some preprocessed datasets can be found [here](https://drive.google.com/drive/folders/1owWu-Ne8wDoBYCFiF9z11fruJo62m_uK?usp=share_link). You can use [gdown](https://github.com/wkentaro/gdown) to download them via command line as follows.
-
-```sh
-gdown --id 1owWu-Ne8wDoBYCFiF9z11fruJo62m_uK --folder
-```
-
-### Preprocessing Scripts
-
-__You can skip this section if you download the preprocessed datasets.__
 
 #### Step 1 -- Download the datasets
 
-Please download the [Symbolic orchestral database (SOD)](https://qsdfo.github.io/LOP/database.html). You may download it via command line as follows.
+1) [MCMA dataset](https://mcma.readthedocs.io/en/latest/docs/download.html) - This is what we used for the simple transfer learning, contains the scores (music XML) of 470 contrapuntal pieces from the composers Albinoni, Bach, Becker, Buxtehude, and Lully.
+2) [Sequence Translation Dataset](https://gitlab.com/skalo/baroque-nmt/-/tree/master/data?ref_type=heads) - consists of the scores of roughly 700 baroque 2 and 3-voiced pieces and an additional 500 multitrack pieces including orchestral works. The pieces are reconfigured into two track pairs, arbitrarily spliced into 4-measure sections, and filtered to contain more than 10 notes, yielding a dataset of 41,297 four-bar, two-voice segments. 
+3)The original model is trained on the  [Symbolic orchestral database (SOD)](https://qsdfo.github.io/LOP/database.html)
 
-```sh
-wget https://qsdfo.github.io/LOP/database/SOD.zip
-```
-
-We also support the following two datasets:
-
+Other large data-sets to consider:
 - [Lakh MIDI Dataset (LMD)](https://qsdfo.github.io/LOP/database.html):
-
-  ```sh
-  wget http://hog.ee.columbia.edu/craffel/lmd/lmd_full.tar.gz
-  ```
-
 - [SymphonyNet Dataset](https://symphonynet.github.io/):
-
-  ```sh
-  gdown https://drive.google.com/u/0/uc?id=1j9Pvtzaq8k_QIPs8e2ikvCR-BusPluTb&export=download
-  ```
 
 ## Splitting and Preparing Data
 
